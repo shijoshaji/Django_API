@@ -1,0 +1,1 @@
+web: gunicorn rate_exchange.wsgi --log-file -
